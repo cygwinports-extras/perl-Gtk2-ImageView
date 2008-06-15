@@ -1,0 +1,4 @@
+category: Gnome Perl
+requires: cygwin glib2 gdk-pixbuf2 gtk2-x11 gtkimageview perl perl-Glib perl-Gtk2
+sdesc: "Perl GtkImageView bindings"
+ldesc: "Perl bindings to the GtkImageView image viewer widget"
