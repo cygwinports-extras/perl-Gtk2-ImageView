@@ -1,0 +1,10 @@
+CPAN_AUTHOR=ratcliffe
+inherit gtk2-perl
+
+NAME="perl-Gtk2-ImageView"
+VERSION=0.05
+RELEASE=2
+CATEGORY="Perl"
+SUMMARY="Perl GtkImageView bindings"
+DESCRIPTION="Perl bindings to the GtkImageView image viewer widget"
+HOMEPAGE="http://trac.bjourne.webfactional.com/"

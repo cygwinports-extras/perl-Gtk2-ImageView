@@ -1,5 +1,0 @@
-CPAN_AUTHOR=ratcliffe
-inherit gtk2-perl
-
-HOMEPAGE="http://trac.bjourne.webfactional.com/"
-#SRC_URI="http://trac.bjourne.webfactional.com/attachment/wiki/WikiStart/${ORIG_PN}-${PV}.tar.gz?format=raw"
